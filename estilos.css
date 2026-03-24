@@ -1,0 +1,16 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
